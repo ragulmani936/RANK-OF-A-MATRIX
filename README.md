@@ -13,10 +13,14 @@ Prepare the lists from each linear equations and assign in np.array()
 ### Step 4:
 End the program
 ## Program:
+~~~
+### Developed By:Ragul M
+### Register Number:21500303
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 sol=np.linalg.matrix_rank(A)
 print(sol)
+~~~
 ## Output:
 ![output](https://github.com/ragulmani936/RANK-OF-A-MATRIX/blob/main/Screenshot%20(7).png?raw=true)
 ## Result:
